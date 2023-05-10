@@ -1,0 +1,79 @@
+GROUPVEG,EVT_PHYS2,Sum of acres
+BPS  Conifer,EVT  Agricultural,7339
+BPS  Conifer,EVT  Conifer,2335342
+BPS  Conifer,EVT  Conifer-Hardwood,149650
+BPS  Conifer,EVT  Developed,19842
+BPS  Conifer,Developed,28297
+BPS  Conifer,Exotic,23892
+BPS  Conifer,EVT  Grassland,29383
+BPS  Conifer,EVT  Hardwood,140858
+BPS  Conifer,EVT  Riparian,14374
+BPS  Conifer,EVT  Shrubland,263614
+BPS  Conifer,EVT  Sparsely Vegetated,34369
+BPS  Grassland,EVT  Agricultural,11139
+BPS  Grassland,EVT  Conifer,32807
+BPS  Grassland,EVT  Conifer-Hardwood,1986
+BPS  Grassland,EVT  Developed,2487
+BPS  Grassland,Developed,5993
+BPS  Grassland,Exotic,14850
+BPS  Grassland,EVT  Grassland,29425
+BPS  Grassland,EVT  Hardwood,11760
+BPS  Grassland,EVT  Riparian,4422
+BPS  Grassland,EVT  Shrubland,70503
+BPS  Grassland,EVT  Sparsely Vegetated,426
+BPS  Hardwood,EVT  Agricultural,12950
+BPS  Hardwood,EVT  Conifer,214993
+BPS  Hardwood,EVT  Conifer-Hardwood,95433
+BPS  Hardwood,EVT  Developed,11697
+BPS  Hardwood,Developed,22132
+BPS  Hardwood,Exotic,40366
+BPS  Hardwood,EVT  Grassland,61310
+BPS  Hardwood,EVT  Hardwood,729939
+BPS  Hardwood,EVT  Riparian,7238
+BPS  Hardwood,EVT  Shrubland,349594
+BPS  Hardwood,EVT  Sparsely Vegetated,8614
+BPS  Hardwood-Conifer,EVT  Agricultural,189
+BPS  Hardwood-Conifer,EVT  Conifer,577998
+BPS  Hardwood-Conifer,EVT  Conifer-Hardwood,309881
+BPS  Hardwood-Conifer,EVT  Developed,4655
+BPS  Hardwood-Conifer,Developed,16439
+BPS  Hardwood-Conifer,Exotic,8207
+BPS  Hardwood-Conifer,EVT  Grassland,62556
+BPS  Hardwood-Conifer,EVT  Hardwood,462509
+BPS  Hardwood-Conifer,EVT  Riparian,6365
+BPS  Hardwood-Conifer,EVT  Shrubland,130876
+BPS  Hardwood-Conifer,EVT  Sparsely Vegetated,14583
+BPS  Perennial Ice/Snow,EVT  Snow-Ice,92
+BPS  Riparian,EVT  Agricultural,47537
+BPS  Riparian,EVT  Conifer,122442
+BPS  Riparian,EVT  Conifer-Hardwood,21973
+BPS  Riparian,EVT  Developed,13813
+BPS  Riparian,Developed,21115
+BPS  Riparian,Exotic,7767
+BPS  Riparian,EVT  Grassland,7975
+BPS  Riparian,EVT  Hardwood,58588
+BPS  Riparian,EVT  Riparian,70302
+BPS  Riparian,EVT  Shrubland,39107
+BPS  Riparian,EVT  Sparsely Vegetated,12206
+BPS  Shrubland,EVT  Agricultural,182361
+BPS  Shrubland,EVT  Conifer,1238096
+BPS  Shrubland,EVT  Conifer-Hardwood,31834
+BPS  Shrubland,EVT  Developed,55256
+BPS  Shrubland,Developed,115515
+BPS  Shrubland,Exotic,190112
+BPS  Shrubland,EVT  Grassland,106580
+BPS  Shrubland,EVT  Hardwood,176206
+BPS  Shrubland,EVT  Riparian,37113
+BPS  Shrubland,EVT  Shrubland,1891585
+BPS  Shrubland,EVT  Sparsely Vegetated,8613
+BPS  Sparse,EVT  Agricultural,867
+BPS  Sparse,EVT  Conifer,2417
+BPS  Sparse,EVT  Conifer-Hardwood,172
+BPS  Sparse,EVT  Developed,48
+BPS  Sparse,Developed,182
+BPS  Sparse,Exotic,192
+BPS  Sparse,EVT  Grassland,1607
+BPS  Sparse,EVT  Hardwood,843
+BPS  Sparse,EVT  Riparian,2454
+BPS  Sparse,EVT  Shrubland,711
+BPS  Sparse,EVT  Sparsely Vegetated,162430
